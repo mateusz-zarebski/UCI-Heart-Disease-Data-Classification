@@ -27,6 +27,7 @@ Binary classification project predicting the presence/absence of heart disease u
 - SVM: **85.25%** accuracy, **83.02%** F1-score  
 
 **Full analysis available in the notebook**:  
+exploratory data analysis (distributions, correlations, chi-square tests), preprocessing pipeline, baseline models comparison, hyperparameter tuning with Optuna, repeated stratified cross-validation results (mean / std), error correlation matrix, final model evaluation, risk stratification with probability-based groups, detailed visualizations (histograms, boxplots, heatmaps, probability distributions), and comprehensive commentary after each major step.
 
 ## Notebook Structure
 The entire project is implemented in a single, well-organized Jupyter Notebook for clarity and reproducibility:
