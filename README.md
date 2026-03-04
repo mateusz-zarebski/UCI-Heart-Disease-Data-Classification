@@ -7,7 +7,7 @@ Binary classification project predicting the presence/absence of heart disease u
 - Nearly balanced binary target (~54% healthy vs ~46% diseased)
 - Minor missing values (ca and thal, <2%)
 - Source:
-    - UCI Machine Learning Repository [Official download page](https://archive.ics.uci.edu/dataset/45/heart+disease)
+    - UCI Machine Learning Repository: [Official download page](https://archive.ics.uci.edu/dataset/45/heart+disease)
   
 ## Key Results
 ### Best model: CatBoost (tuned)
