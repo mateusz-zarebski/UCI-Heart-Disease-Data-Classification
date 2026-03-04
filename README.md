@@ -36,8 +36,8 @@ The entire project is implemented in a single, well-organized Jupyter Notebook f
 - Modular design within the notebook - easy to extract into .py files if needed
 - Consistent preprocessing across all models
 - Detailed EDA with distributions, correlations and statistical tests
-- Baseline models + tuning (Optuna, 1000 trials)
-- Repeated stratified CV (5x10 folds) and error correlation matrix
+- Baseline models + tuning
+- Repeated stratified CV and error correlation matrix
 - Final model risk stratification + probability distribution plot
 
 ## Technologies
