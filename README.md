@@ -53,10 +53,6 @@ Complete pipeline with EDA, modeling, tuning and risk analysis: [View notebook o
 pip install -r requirements.txt
 jupyter notebook heart_disease_classification.ipynb
 ```
-## References
-
-
-
 ---
 ⭐ **Star if you like the project!**  
 
